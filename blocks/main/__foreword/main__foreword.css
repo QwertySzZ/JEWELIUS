@@ -1,0 +1,13 @@
+.main__foreword {
+  font-family: 'GFS Didot';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 37px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #B7BB00;
+  margin-bottom: -63px;
+  margin-top: 44px;
+}

@@ -1,0 +1,8 @@
+.main__md4 {
+    display: flex;
+    width:472px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 42px;
+}

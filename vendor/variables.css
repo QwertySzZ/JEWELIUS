@@ -1,0 +1,10 @@
+:root{
+  --variables : 10px; /* ���������� : ������� */ 
+  --primary-text:#FFF;
+  --secondary-text:#000;
+  --base-bg-color:#FFF;
+}
+
+:root{
+  --block-width: calc(1200px / 12);
+}

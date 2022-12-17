@@ -1,0 +1,11 @@
+.main__product-name {
+  font-family: 'GFS Didot';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  color: #000000;
+  margin: 0;
+}
