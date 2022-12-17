@@ -1,0 +1,4 @@
+.md8{
+    width: calc(var(--block-width) * 8);
+    display: flex;
+}

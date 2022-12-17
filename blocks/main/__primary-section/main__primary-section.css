@@ -1,0 +1,5 @@
+.main__primary-section {
+    display: flex;
+    flex-direction: row;
+    padding-top: 31px;
+}

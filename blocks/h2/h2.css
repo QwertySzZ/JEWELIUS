@@ -1,0 +1,11 @@
+.h2 {
+    color: var(--primary-text);
+    margin: 0px;
+    padding-top: 120px;
+    padding-bottom: 15px;
+    font-family: 'GFS Didot';
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 65px;
+    text-align: center;
+}

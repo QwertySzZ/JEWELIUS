@@ -1,0 +1,9 @@
+.h4 {
+    color: var(--primary-text);
+    margin: 0px;
+    font-family: 'GFS Didot';
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 45px;
+    text-align: center;
+}

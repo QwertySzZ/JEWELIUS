@@ -1,0 +1,11 @@
+.main__h3 {
+    font-family: 'GFS Didot';
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 57px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--secondary-text);
+    margin-top: 63px;
+}
